@@ -1,5 +1,2 @@
-## this is my first full stack project 
-### In this I created three folders 
-- backend
-- common
-- frontend
+## This is my backend folder 
+### In this I used prisma as an ORM and use prisma acceleration
